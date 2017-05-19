@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [When generating a Nuxt static site](when-generating-a-nuxt-static-site.md)
+
